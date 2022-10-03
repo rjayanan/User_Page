@@ -11,7 +11,7 @@ git commit
 git branch
 ```
 The repo can be found [here](https://github.com/rjayanan/User_Page)\
-Access Read me by clicking [this](README.md)\
+Access Read me by clicking [this](README.md)
 
 Hobbies
 - Volleyball
